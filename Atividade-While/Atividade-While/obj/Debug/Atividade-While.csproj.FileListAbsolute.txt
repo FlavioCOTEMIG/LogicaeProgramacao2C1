@@ -1,0 +1,11 @@
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\bin\Debug\Atividade-While.exe.config
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\bin\Debug\Atividade-While.exe
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\bin\Debug\Atividade-While.pdb
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade-While.csproj.AssemblyReference.cache
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade-While.csproj.SuggestedBindingRedirects.cache
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade_While.Form1.resources
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade_While.Properties.Resources.resources
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade-While.csproj.GenerateResource.cache
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade-While.csproj.CoreCompileInputs.cache
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade-While.exe
+H:\LOGICA PRATICA\2ª Etapa\Atividade-While\Atividade-While\obj\Debug\Atividade-While.pdb

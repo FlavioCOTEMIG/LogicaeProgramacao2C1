@@ -1,0 +1,11 @@
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\bin\Debug\Sabor_e_Vida.exe.config
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\bin\Debug\Sabor_e_Vida.exe
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\bin\Debug\Sabor_e_Vida.pdb
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.csproj.AssemblyReference.cache
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.csproj.SuggestedBindingRedirects.cache
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.Form1.resources
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.Properties.Resources.resources
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.csproj.GenerateResource.cache
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.csproj.CoreCompileInputs.cache
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.exe
+H:\LOGICA PRATICA\2ª Etapa\Sabor_e_Vida\Sabor_e_Vida\obj\Debug\Sabor_e_Vida.pdb
